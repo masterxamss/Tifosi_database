@@ -14,7 +14,7 @@ git@2.34.1 or higher
 Mysql 8.0 or higher
 ```
 ## Project setup 🔧
-From your command line, first clone portfolio:
+From your command line, first clone repo:
 ```
 # Clone the repository
 $ git clone https://github.com/masterxamss/Tifosi_database.git
