@@ -31,11 +31,11 @@ After that, you can run the below commands.
 $ mysql -u 'username' -p < tifosi.sql
 Enter password:
 
-# RUN THE COMMAND AS USER 'tifosi', THIS SRIPT WILL IMPORT THE DATA;
+# RUN THE COMMAND AS USER 'tifosi', PASSWORD IS ON THE SCRIPT (tifosi.sql) LINE 23, THIS SRIPT WILL IMPORT THE DATA;
 $ mysql -u tifosi -p < tifosi-data.sql
 Enter password:
 
-# ENTER AS USER 'tifosi', PASSWORD IS ON THE SCRIPT (tifosi.sql) LINE 23
+# ENTER AS USER 'tifosi'
 $ mysql -u 'tifosi' -p
 Enter password:
 
